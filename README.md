@@ -998,7 +998,11 @@
 - [bayonet是一款src资产管理系统，从子域名、端口服务、漏洞、爬虫等一体化的资产管理系统](https://github.com/CTF-MissFeng/bayonet)
 - [SharpToolsAggressor-内网渗透中常用的c#程序整合成cs脚本，直接内存加载](https://github.com/uknowsec/SharpToolsAggressor)
 - [【漏洞库】又一个各种漏洞poc、Exp的收集或编写](https://github.com/coffeehb/Some-PoC-oR-ExP)
-- [【内网代理】内网渗透代理转发利器reGeorg](https://github.com/sensepost/reGeorg) - 相关文章:[配置reGeorg+Proxifier渗透内网](https://www.k0rz3n.com/2018/07/06/如何使用reGeorg+Proxifier渗透内网)-[reGeorg+Proxifier实现内网sock5代理](http://jean.ink/2018/04/26/reGeorg/) - [内网渗透之reGeorg+Proxifier](https://sky666sec.github.io/2017/12/16/内网渗透之reGeorg-Proxifier) - [reGeorg+Proxifier使用](https://xz.aliyun.com/t/228)
+- [【内网代理】内网渗透代理转发利器reGeorg](https://github.com/sensepost/reGeorg)
+- [相关文章:配置reGeorg+Proxifier渗透内网](https://www.k0rz3n.com/2018/07/06/如何使用reGeorg+Proxifier渗透内网)
+- [reGeorg+Proxifier实现内网sock5代理](http://jean.ink/2018/04/26/reGeorg/)
+- [内网渗透之reGeorg+Proxifier](https://sky666sec.github.io/2017/12/16/内网渗透之reGeorg-Proxifier)
+- [reGeorg+Proxifier使用](https://xz.aliyun.com/t/228)
 - [【内网代理】Neo-reGeorg重构的reGeorg ](https://github.com/L-codes/Neo-reGeorg)
 - [【内网代理】Tunna-通过http隧道将TCP流量代理出来](https://github.com/SECFORCE/Tunna)
 - [【内网代理】proxy.php-单文件版的php代理](https://github.com/mcnemesis/proxy.php)
@@ -1012,7 +1016,8 @@
 - [【内网代理】FastTunnel：高性能跨平台的内网穿透解决方案](https://github.com/FastTunnel/FastTunnel)
 - [get_Team_Pass-获取目标机器上的teamviewerID和密码(你需要具有有效的目标机器账号密码且目标机器445端口可以被访问(开放445端口))](https://github.com/kr1shn4murt1/get_Team_Pass/)
 - [chromepass-获取chrome保存的账号密码/cookies-nirsoft出品在win10+chrome 80测试OK](./tools/chromepass/)-[SharpChrome-基于.NET 2.0的开源获取chrome保存过的账号密码/cookies/history](https://github.com/djhohnstein/SharpChrome)-[ChromePasswords-开源获取chrome密码/cookies工具](https://github.com/malcomvetter/ChromePasswords)
-- [java-jdwp远程调试利用](https://github.com/Lz1y/jdwp-shellifier)- 相关文章:[jdwp远程调试与安全](https://qsli.github.io/2018/08/12/jdwp/)
+- [java-jdwp远程调试利用](https://github.com/Lz1y/jdwp-shellifier)
+- [相关文章:jdwp远程调试与安全](https://qsli.github.io/2018/08/12/jdwp/)
 - [社会工程学密码生成器，是一个利用个人信息生成密码的工具](https://github.com/zgjx6/SocialEngineeringDictionaryGenerator)
 - [云业CMS(yunyecms)的多处SQL注入审计分析](./books/云业CMS(yunyecms)的多处SQL注入审计分析.pdf)-[原文地址](https://xz.aliyun.com/t/7302)-[官网下载地址](http://www.yunyecms.com/index.php?m=version&c=index&a=index)-[sqlmap_yunyecms_front_sqli_tamp.py](./tools/sqlmap_yunyecms_front_sqli_tamp.py)
 - [www.flash.cn 的钓鱼页，中文+英文](https://github.com/r00tSe7en/Fake-flash.cn)-[Flash-Pop：flash 钓鱼弹窗优化版](https://github.com/r00tSe7en/Flash-Pop)-[Flash-Pop2：Flash-Pop升级版](https://github.com/chroblert/Flash-Pop2)
@@ -2298,7 +2303,8 @@
 - [sqlmap使用总结](./books/sqlmap使用总结.pdf)-[【实战技巧】sqlmap不为人知的骚操作](./books/%E3%80%90%E5%AE%9E%E6%88%98%E6%8A%80%E5%B7%A7%E3%80%91sqlmap%E4%B8%8D%E4%B8%BA%E4%BA%BA%E7%9F%A5%E7%9A%84%E9%AA%9A%E6%93%8D%E4%BD%9C_Summer's_blog.pdf)-[原文地址](https://blog.csdn.net/sun1318578251/article/details/102524100)-[记一份SQLmap 使用手册小结（一）](./books/记一份SQLmap%20使用手册小结（一）.pdf)-[记一份SQLmap 使用手册小结（二）](./books/记一份SQLmap%20使用手册小结（二）.pdf)
 - [mac上Parallels Desktop安装kali linux 2020.2a并安装好Parallels Tools+Google拼音输入法](./books/mac%E4%B8%8AParallels%20Desktop%E5%AE%89%E8%A3%85kali%20linux%202020.2a%E5%B9%B6%E5%AE%89%E8%A3%85%E5%A5%BDParallels%20Tools+Google%E6%8B%BC%E9%9F%B3%E8%BE%93%E5%85%A5%E6%B3%95.docx)
 - [通达OA v11.5 多枚0day漏洞复现](./books/%E9%80%9A%E8%BE%BEOA%20v11.5%20%E5%A4%9A%E6%9E%9A0day%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0.pdf)-[续集 _ 再发通达OA多枚0day](./books/%E7%BB%AD%E9%9B%86%20_%20%E5%86%8D%E5%8F%91%E9%80%9A%E8%BE%BEOA%E5%A4%9A%E6%9E%9A0day.pdf)-[原文地址](https://mp.weixin.qq.com/s/RlOpohHvjHv_Qg3mNgDCAQ)
-- [POSCMS(20200821)_任意 SQL 语句执行(需要登录后台)](./books/POSCMS_%E4%BB%BB%E6%84%8F%20SQL%20%E8%AF%AD%E5%8F%A5%E6%89%A7%E8%A1%8C%EF%BC%88%E9%9C%80%E8%A6%81%E7%99%BB%E5%BD%95%E5%90%8E%E5%8F%B0%EF%BC%89.pdf)-[原文地址](https://www.t00ls.net/thread-57551-1-1.html)
+- [POSCMS(20200821)_任意SQL语句执行/需要登录后台](./books/POSCMS_%E4%BB%BB%E6%84%8F%20SQL%20%E8%AF%AD%E5%8F%A5%E6%89%A7%E8%A1%8C%EF%BC%88%E9%9C%80%E8%A6%81%E7%99%BB%E5%BD%95%E5%90%8E%E5%8F%B0%EF%BC%89.pdf)
+- [原文地址](https://www.t00ls.net/thread-57551-1-1.html)
 - [POSCMS v3.2.0漏洞复现(getshell+前台SQL注入)](./books/POSCMS%20v3.2.0%E6%BC%8F%E6%B4%9E%E5%A4%8D%E7%8E%B0(getshell+%E5%89%8D%E5%8F%B0SQL%E6%B3%A8%E5%85%A5).pdf)-[原文地址](https://xz.aliyun.com/t/4858)
 - [多线程+二分法的巧用-通达OA 2017 SQL盲注](./books/%E5%A4%9A%E7%BA%BF%E7%A8%8B+%E4%BA%8C%E5%88%86%E6%B3%95%E7%9A%84%E5%B7%A7%E7%94%A8%E2%80%94%E2%80%94%E9%80%9A%E8%BE%BEOA%20SQL%E7%9B%B2%E6%B3%A8.pdf)-[原文地址](https://mp.weixin.qq.com/s/zH13q6xBRc58ggHqfKKi_g)
 - [宝塔面板webshell隐藏小技巧](./books/宝塔面板webshell隐藏小技巧.pdf)-[原文地址](https://mp.weixin.qq.com/s/-8JE1ovWKOorNr6MCAgejg)
@@ -2826,9 +2832,7 @@
 <details>  
 <summary>其他杂项</summary>  
 
-  在`2020-08-16`登上`GitHub`的`Trending`日榜，谢谢大家支持，谢谢那些在freebuf和公众号推荐的师傅，我会继续努力，期待有靠谱的师傅一起来维护优化，感兴趣的邮箱联系我吧！
-
-  ![trending](./img/trending.png)  
+  在`2020-08-16`登上`GitHub`的`Trending`日榜，谢谢大家支持，谢谢那些在freebuf和公众号推荐的师傅，我会继续努力，期待有靠谱的师傅一起来维护优化，感兴趣的邮箱联系我吧~ ![trending](./img/trending.png)  
 
 </details>
 
