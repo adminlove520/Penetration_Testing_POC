@@ -2850,7 +2850,9 @@
 <details>  
 <summary>其他杂项</summary>  
 
-  在`2020-08-16`登上`GitHub`的`Trending`日榜，谢谢大家支持，谢谢那些在freebuf和公众号推荐的师傅，我会继续努力，期待有靠谱的师傅一起来维护优化，感兴趣的邮箱联系我吧~ ![trending](./img/trending.png)  
+  在`2020-08-16`登上`GitHub`的`Trending`日榜，谢谢大家支持，谢谢那些在freebuf和公众号推荐的师傅，我会继续努力，期待有靠谱的师傅一起来维护优化，感兴趣的邮箱联系我吧~ 
+  
+  ![trending](./img/trending.png)  
 
 </details>
 
