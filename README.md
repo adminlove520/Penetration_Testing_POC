@@ -721,7 +721,7 @@
 - [汉王e脸通综合管理平台 queryManyPeopleGroupList.do SQL注入漏洞](https://mrxn.net/jswz/hanvon-efacego-queryManyPeopleGroupList-sqli.html)
 - [汉王e脸通综合管理平台 权限绕过漏洞](https://mrxn.net/jswz/hanvon-efacego-auth-bypass.html)
 - [MetaCRM 客户关系管理系统 sendsms.jsp 任意文件上传漏洞](https://mrxn.net/jswz/metasoft-business-sendsms-upload-rce.html)
-- 
+- [CVE-2025-54424: 1Panel 客户端证书绕过RCE漏洞 一体化工具 (扫描+利用)](https://github.com/Mr-xn/CVE-2025-54424)
 
 
 ## <span id="head5"> 提权辅助相关</span>
